@@ -50,8 +50,9 @@ const myObject = {
 const myNumber = 3 * 10
 const myNumber2 = 3 + 4
 const myNumber3 = myNumber - myNumber2
+const myModulo = 4 % 2
 
-console.log(myNumber3 + 7)
+console.log(myModulo)
 
 let lives = 5
 //console.log(lives)
