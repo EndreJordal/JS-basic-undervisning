@@ -51,6 +51,10 @@ console.log(parseFloat(myNum))
 //console.log(Number(myNum))
 console.log(+myNum)
 
+// https://www.w3schools.com/js/js_array_methods.asp
+
+// https://developer.mozilla.org/
+
 
 
 
